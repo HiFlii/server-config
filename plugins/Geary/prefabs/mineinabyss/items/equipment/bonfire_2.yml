@@ -1,4 +1,5 @@
 set.item:
-  item:
-    type: minecraft:paper
-    customModelData: 1038
+  type: minecraft:paper
+  itemModel: mineinabyss:bonfire_2
+resourcepack:
+  model: mineinabyss:block/bonfire/bonfire_2

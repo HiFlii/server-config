@@ -2,7 +2,7 @@
 # HMCCosmetics Configuration (Remapped)
 #
 config-version: 1
-default-menu: defaultmenu
+default-menu: command_main_menu
 debug-mode: false
 database-settings:
   type: sqlite
@@ -26,8 +26,8 @@ cosmetic-settings:
   # This determines what to process what areas to process placeholders when displaying the item to the user.
   # This can be heavy on servers with a lot of players, so if experiencing lag issues relating to setting display/lores of items, disable this.
   item-processing:
-    display-name: true
-    lore: true
+    display-name: false
+    lore: false
 
   # This is a list of worlds that cosmetics are hidden in. When a player enters one of these worlds, their cosmetics will be hidden.
   disabled-worlds:
@@ -116,8 +116,9 @@ menu-settings:
     locked-cosmetic-color: <red>
   cosmetic-type:
     # This allows you to specify if it should require a special click type for the interaction to work.
-    equip-click: ANY
-    unequip-click: ANY
+    equip-click: LEFT
+    unequip-click: LEFT
+    dye-click: RIGHT
 dye-menu:
   # If you use ItemsAdder, set this to "<white>:img_offset_-8::img_dye_menu:"
   # If you use Oraxen, set this to "<white><s:-8><g:dye_menu>"
@@ -161,7 +162,7 @@ wardrobe:
   # Bossbar that shows when a player is in a wardrobe.
   bossbar:
     enabled: true
-    text: Left-Click to open the menu!
+    text: <font:cosmetics:cosmetics><b>Left-Click</b> to open the menu! <b>Sneak</b> to exit wardrobe!
     progress: 1.0
     overlay: PROGRESS
     color: WHITE
@@ -176,31 +177,8 @@ wardrobe:
     title-stay: 500
     title-fade-out: 1000
   wardrobes:
-    test:
-      distance: -1
-      permission: hmccosmetics.wardrobe.default
-      npc-location:
-        world: world
-        x: -3.0
-        y: 139.0
-        z: -513.5
-        yaw: -180.0
-        pitch: 0.0
-      viewer-location:
-        world: world
-        x: -7.0
-        y: 139.5
-        z: -513.5
-        yaw: -90.0
-        pitch: 0.0
-      leave-location:
-        world: world
-        x: -9.0
-        y: 139.0
-        z: -513.5
-        yaw: 90.0
-        pitch: 0.0
     guildhq1:
+      default-menu: wardrobe_main_menu
       distance: -1
       permission: hmccosmetics.wardrobe.default
       npc-location:
@@ -225,6 +203,7 @@ wardrobe:
         yaw: 90.0
         pitch: 0.0
     guildhq2:
+      default-menu: wardrobe_main_menu
       distance: -1
       permission: hmccosmetics.wardrobe.default
       npc-location:

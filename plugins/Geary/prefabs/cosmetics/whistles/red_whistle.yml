@@ -1,15 +1,15 @@
 set.item:
-  item:
-    itemName: <#DB4040>Red Whistle
-    type: potion
-    color: "#FFFFFF"
-    customModelData: 201
+  itemName: <#DB4040>Red Whistle
+  type: PAPER
+  itemModel: mineinabyss:red_whistle
 disableItemInteractions: {}
 observe:
   itemRightClick:
-    - become: parent
-    - cooldown:
-        length: 3s
-        id: sound_red_whistle
-    - playSound:
-        sound: mineinabyss:whistle.red_whistle
+  - become: parent
+  - cooldown:
+      length: 3s
+      id: sound_red_whistle
+  - playSound:
+      sound: mineinabyss:whistle.red_whistle
+resourcepack:
+  model: mineinabyss:item/relics/whistle/red_whistle
