@@ -2,7 +2,7 @@ set.item:
   itemName: <#262626>Ozen's Hat
   lore:
   - '<gray>:ozensmug:'
-  type: LEATHER_HORSE_ARMOR
+  type: PAPER
   itemModel: mineinabyss:ozen_hat
   dyedColor:
     color: '#FFFFFF'

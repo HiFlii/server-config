@@ -15,19 +15,17 @@ items:
         - ""
         - "<red>[Left Click - <i>Unequip</i>]"
     locked-equipped-item:
-      model-id: cosmetics:question_mark_button
+
       material: hmccosmetics:backpack
       lore:
-        - "<red>Locked"
-        - "<gold>20:cosmetic_orth_coin:"
+        - "<red>Locked</red> <white>|</white> <gold>20:cosmetic_orth_coin:"
         - "<yellow>[Left Click - <i>Unequip</i>]"
         - "<red>[Right Click - <i>Buy</i>]"
     locked-item:
-      model-id: cosmetics:question_mark_button
+
       material: hmccosmetics:backpack
       lore:
-        - "<red>Locked"
-        - "<gold>20:cosmetic_orth_coin:"
+        - "<red>Locked</red> <white>|</white> <gold>20:cosmetic_orth_coin:"
         - "<yellow>[Left Click - <i>Try</i>]"
         - "<red>[Right Click - <i>Buy</i>]"
     type: mia_cosmetic
@@ -54,19 +52,17 @@ items:
         - "<red>[Left Click - <i>Unequip</i>]"
         - "<rainbow>[Right Click - <i>Dye</i>]"
     locked-equipped-item:
-      model-id: cosmetics:question_mark_button
+
       material: hmccosmetics:satchel
       lore:
-        - "<red>Locked"
-        - "<gold>40:cosmetic_orth_coin:"
+        - "<red>Locked</red> <white>|</white> <gold>40:cosmetic_orth_coin:"
         - "<yellow>[Left Click - <i>Unequip</i>]"
         - "<red>[Right Click - <i>Buy</i>]"
     locked-item:
-      model-id: cosmetics:question_mark_button
+
       material: hmccosmetics:satchel
       lore:
-        - "<red>Locked"
-        - "<gold>40:cosmetic_orth_coin:"
+        - "<red>Locked</red> <white>|</white> <gold>40:cosmetic_orth_coin:"
         - "<yellow>[Left Click - <i>Try</i>]"
         - "<red>[Right Click - <i>Buy</i>]"
     type: mia_cosmetic
@@ -94,19 +90,17 @@ items:
         - ""
         - "<red>[Left Click - <i>Unequip</i>]"
     locked-equipped-item:
-      model-id: cosmetics:question_mark_button
+
       material: hmccosmetics:bondrewd_backpack
       lore:
-        - "<red>Locked"
-        - "<gold>2:cosmetic_mitty_token:"
+        - "<red>Locked</red> <white>|</white> <gold>2:cosmetic_mitty_token:"
         - "<yellow>[Left Click - <i>Unequip</i>]"
         - "<red>[Right Click - <i>Buy</i>]"
     locked-item:
-      model-id: cosmetics:question_mark_button
+
       material: hmccosmetics:bondrewd_backpack
       lore:
-        - "<red>Locked"
-        - "<gold>2:cosmetic_mitty_token:"
+        - "<red>Locked</red> <white>|</white> <gold>2:cosmetic_mitty_token:"
         - "<yellow>[Left Click - <i>Try</i>]"
         - "<red>[Right Click - <i>Buy</i>]"
     type: mia_cosmetic
@@ -133,16 +127,14 @@ items:
     locked-equipped-item:
       material: hmccosmetics:neritantan_backpack
       lore:
-        - ""
-        - "<gold>2:mitty_token:"
+        - "<red>Locked</red> <white>|</white> <gold>2:cosmetic_mitty_token:"
         - "<yellow>[Left Click - <i>Unequip</i>]"
         - "<red>[Right Click - <i>Buy</i>]"
     locked-item:
-      model-id: cosmetics:question_mark_button
+
       material: hmccosmetics:neritantan_backpack
       lore:
-        - "<red>Locked"
-        - "<gold>2:cosmetic_mitty_token:"
+        - "<red>Locked</red> <white>|</white> <gold>2:cosmetic_mitty_token:"
         - "<yellow>[Left Click - <i>Try</i>]"
         - "<red>[Right Click - <i>Buy</i>]"
     type: mia_cosmetic
