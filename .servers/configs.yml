@@ -56,6 +56,10 @@ feat/cosmetics:
       dest: plugins/Geary/prefabs/cosmetics
     - source: mc-resourcepacks/cosmetics
       dest: plugins/Packy/resourcepacks/cosmetics
+    - source: plugins/HMCCosmetics
+      dest: plugins/HMCCosmetics
+    - source: plugins/HMCColor
+      dest: plugins/HMCColor
 
 feat/bosses:
   copyPaths:
