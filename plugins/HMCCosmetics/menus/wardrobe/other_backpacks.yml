@@ -26,6 +26,9 @@ items:
       material: hmccosmetics:fantasy_mining_backpack
       lore:
         - "<red>Locked"
+        - "<gold>50:cosmetic_orth_coin:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: mia_cosmetic
     currency: orth_coin
     cost: 50
@@ -59,6 +62,9 @@ items:
       material: hmccosmetics:cauldron_backpack
       lore:
         - "<red>Locked"
+        - "<gold>50:cosmetic_orth_coin:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: mia_cosmetic
     currency: orth_coin
     cost: 50
@@ -92,6 +98,9 @@ items:
       material: hmccosmetics:fantasy_explorer_backpack
       lore:
         - "<red>Locked"
+        - "<gold>80:cosmetic_orth_coin:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: mia_cosmetic
     currency: orth_coin
     cost: 80
@@ -125,6 +134,9 @@ items:
       material: hmccosmetics:fantasy_fishing_rod
       lore:
         - "<red>Locked"
+        - "<gold>60:cosmetic_orth_coin:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: mia_cosmetic
     currency: orth_coin
     cost: 60
@@ -158,6 +170,9 @@ items:
       material: hmccosmetics:adventurer_backpack
       lore:
         - "<red>Locked"
+        - "<gold>80:cosmetic_orth_coin:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: mia_cosmetic
     currency: orth_coin
     cost: 80
@@ -193,6 +208,9 @@ items:
       material: hmccosmetics:miner_backpack
       lore:
         - "<red>Locked"
+        - "<gold>80:cosmetic_orth_coin:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: mia_cosmetic
     currency: orth_coin
     cost: 80
@@ -228,6 +246,9 @@ items:
       material: hmccosmetics:explorer_backpack
       lore:
         - "<red>Locked"
+        - "<gold>150:cosmetic_orth_coin:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: mia_cosmetic
     currency: orth_coin
     cost: 150
@@ -264,6 +285,9 @@ items:
       material: hmccosmetics:camper_backpack
       lore:
         - "<red>Locked"
+        - "<gold>2:cosmetic_mitty_token:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: mia_cosmetic
     currency: mitty_token
     cost: 2

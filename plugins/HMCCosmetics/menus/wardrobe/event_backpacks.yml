@@ -20,6 +20,9 @@ items:
       material: hmccosmetics:mallet_chisel_bronze
       lore:
         - "<red>Locked"
+        - "<gold>20:cosmetic_orth_coin:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: cosmetic
     cosmetic: mallet_chisel_bronze
     actions:
@@ -45,6 +48,9 @@ items:
       material: hmccosmetics:mallet_chisel_silver
       lore:
         - "<red>Locked"
+        - "<gold>20:cosmetic_orth_coin:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: cosmetic
     cosmetic: mallet_chisel_silver
     actions:
@@ -70,6 +76,9 @@ items:
       material: hmccosmetics:mallet_chisel_gold
       lore:
         - "<red>Locked"
+        - "<gold>20:cosmetic_orth_coin:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: cosmetic
     cosmetic: mallet_chisel_gold
     actions:
@@ -96,6 +105,9 @@ items:
       material: hmccosmetics:camera_bronze
       lore:
         - "<red>Locked"
+        - "<gold>20:cosmetic_orth_coin:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: cosmetic
     cosmetic: camera_bronze
     actions:
@@ -121,6 +133,9 @@ items:
       material: hmccosmetics:camera_silver
       lore:
         - "<red>Locked"
+        - "<gold>20:cosmetic_orth_coin:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: cosmetic
     cosmetic: camera_silver
     actions:
@@ -146,6 +161,9 @@ items:
       material: hmccosmetics:camera_gold
       lore:
         - "<red>Locked"
+        - "<gold>20:cosmetic_orth_coin:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: cosmetic
     cosmetic: camera_gold
     actions:

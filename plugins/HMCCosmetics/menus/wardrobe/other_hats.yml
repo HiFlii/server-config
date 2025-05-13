@@ -26,6 +26,9 @@ items:
       material: hmccosmetics:fantasy_mining_helmet
       lore:
         - "<red>Locked"
+        - "<gold>50:cosmetic_orth_coin:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: mia_cosmetic
     currency: orth_coin
     cost: 50
@@ -54,6 +57,9 @@ items:
       material: hmccosmetics:fantasy_cook_hat
       lore:
         - "<red>Locked"
+        - "<gold>50:cosmetic_orth_coin:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: mia_cosmetic
     currency: orth_coin
     cost: 50
@@ -82,6 +88,9 @@ items:
       material: hmccosmetics:fantasy_fisher_hat
       lore:
         - "<red>Locked"
+        - "<gold>60:cosmetic_orth_coin:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: mia_cosmetic
     currency: orth_coin
     cost: 60
@@ -110,6 +119,9 @@ items:
       material: hmccosmetics:fantasy_explorer_hat
       lore:
         - "<red>Locked"
+        - "<gold>80:cosmetic_orth_coin:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: mia_cosmetic
     currency: orth_coin
     cost: 80
@@ -140,6 +152,9 @@ items:
       material: hmccosmetics:adventurer_hat
       lore:
         - "<red>Locked"
+        - "<gold>80:cosmetic_orth_coin:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: mia_cosmetic
     currency: orth_coin
     cost: 80
@@ -168,6 +183,9 @@ items:
       material: hmccosmetics:fantasy_straw_hat
       lore:
         - "<red>Locked"
+        - "<gold>50:cosmetic_orth_coin:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: mia_cosmetic
     currency: orth_coin
     cost: 50
@@ -196,6 +214,9 @@ items:
       material: hmccosmetics:mechanic_glasses
       lore:
         - "<red>Locked"
+        - "<gold>80:cosmetic_orth_coin:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: mia_cosmetic
     currency: orth_coin
     cost: 80
@@ -226,6 +247,9 @@ items:
       material: hmccosmetics:dooby_helmet
       lore:
         - "<red>Locked"
+        - "<gold>2:cosmetic_mitty_token:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: mia_cosmetic
     currency: mitty_token
     cost: 2
@@ -255,6 +279,9 @@ items:
       material: hmccosmetics:henya_helmet
       lore:
         - "<red>Locked"
+        - "<gold>3:cosmetic_mitty_token:"
+        - "<yellow>[Left Click - <i>Try</i>]"
+        - "<red>[Right Click - <i>Buy</i>]"
     type: mia_cosmetic
     currency: mitty_token
     cost: 3
