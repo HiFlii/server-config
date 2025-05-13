@@ -11,7 +11,7 @@ core:
   bubbleColumnBreathMultiplier: 2
   serverLinks: []
 cosmetics:
-  enabled: true
+  enabled: false
   equipWhistleCosmetic: false
 curse:
   enabled: false
