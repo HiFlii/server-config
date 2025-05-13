@@ -40,7 +40,7 @@ premium_content:
   githubDownload:
     org: MineInAbyss
     repo: ResourcePack-Premium-Content
-    branch: 1.21.4
+    branch: develop
 tools_2d:
   default: true
   required: false
