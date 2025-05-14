@@ -1,5 +1,0 @@
-set.item:
-  type: minecraft:paper
-  itemModel: mineinabyss:bonfire_1
-resourcepack:
-  model: mineinabyss:block/bonfire/bonfire_1
