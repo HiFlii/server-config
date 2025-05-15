@@ -19,7 +19,7 @@ items:
       material: hmccosmetics:fantasy_mining_helmet
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 1
     cosmetic: fantasy_mining_helmet
@@ -40,7 +40,7 @@ items:
       material: hmccosmetics:fantasy_cook_hat
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 1
     cosmetic: fantasy_cook_hat
@@ -61,7 +61,7 @@ items:
       material: hmccosmetics:fantasy_fisher_hat
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 1
     cosmetic: fantasy_fisher_hat
@@ -82,7 +82,7 @@ items:
       material: hmccosmetics:fantasy_explorer_hat
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 1
     cosmetic: fantasy_explorer_hat
@@ -105,7 +105,7 @@ items:
       material: hmccosmetics:adventurer_hat
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 1
     cosmetic: adventurer_hat
@@ -126,7 +126,7 @@ items:
       material: hmccosmetics:fantasy_straw_hat
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 1
     cosmetic: fantasy_straw_hat
@@ -147,7 +147,7 @@ items:
       material: hmccosmetics:mechanic_glasses
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 1
     cosmetic: mechanic_glasses
@@ -170,7 +170,7 @@ items:
       material: hmccosmetics:dooby_helmet
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 1
     cosmetic: dooby_helmet
@@ -199,7 +199,7 @@ items:
         material: hmccosmetics:henya_helmet
         lore:
           - "<red>Locked"
-      type: mia_cosmetic
+      type: cosmetic
       currency: mitty_token
       cost: 1
       cosmetic: henya_helmet

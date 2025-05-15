@@ -25,7 +25,7 @@ items:
       material: hmccosmetics:fantasy_mining_backpack
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 1
     cosmetic: fantasy_mining_backpack
@@ -57,7 +57,7 @@ items:
       material: hmccosmetics:cauldron_backpack
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 1
     cosmetic: cauldron_backpack
@@ -89,7 +89,7 @@ items:
       material: hmccosmetics:fantasy_explorer_backpack
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 1
     cosmetic: fantasy_explorer_backpack
@@ -121,7 +121,7 @@ items:
       material: hmccosmetics:fantasy_fishing_rod
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 1
     cosmetic: fantasy_fishing_rod
@@ -155,7 +155,7 @@ items:
       material: hmccosmetics:adventurer_backpack
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 1
     cosmetic: adventurer_backpack
@@ -189,7 +189,7 @@ items:
       material: hmccosmetics:miner_backpack
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 1
     cosmetic: miner_backpack
@@ -217,7 +217,7 @@ items:
       material: hmccosmetics:explorer_backpack
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 1
     cosmetic: explorer_backpack
@@ -252,7 +252,7 @@ items:
       material: hmccosmetics:camper_backpack
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 1
     cosmetic: camper_backpack

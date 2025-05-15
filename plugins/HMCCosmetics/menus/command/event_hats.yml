@@ -26,7 +26,7 @@ items:
       material: hmccosmetics:tama_hat
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 1
     cosmetic: tama_hat
@@ -47,7 +47,7 @@ items:
       material: hmccosmetics:amongus_cosmetic
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 1
     cosmetic: amongus_cosmetic
@@ -68,7 +68,7 @@ items:
       material: hmccosmetics:clown_mask
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 1
     cosmetic: clown_mask

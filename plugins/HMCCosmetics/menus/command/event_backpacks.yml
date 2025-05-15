@@ -20,7 +20,7 @@ items:
       material: hmccosmetics:mallet_chisel_bronze
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     cosmetic: mallet_chisel_bronze
     actions:
       on-equip:
@@ -45,7 +45,7 @@ items:
       material: hmccosmetics:mallet_chisel_silver
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     cosmetic: mallet_chisel_silver
     actions:
       on-equip:
@@ -70,7 +70,7 @@ items:
       material: hmccosmetics:mallet_chisel_gold
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     cosmetic: mallet_chisel_gold
     actions:
       on-equip:
@@ -96,7 +96,7 @@ items:
       material: hmccosmetics:camera_bronze
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     cosmetic: camera_bronze
     actions:
       on-equip:
@@ -121,7 +121,7 @@ items:
       material: hmccosmetics:camera_silver
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     cosmetic: camera_silver
     actions:
       on-equip:
@@ -146,7 +146,7 @@ items:
       material: hmccosmetics:camera_gold
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     cosmetic: camera_gold
     actions:
       on-equip:

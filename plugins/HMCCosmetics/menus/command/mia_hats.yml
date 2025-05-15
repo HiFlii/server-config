@@ -27,7 +27,7 @@ items:
       material: hmccosmetics:habo_hat
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: orth_coin
     cost: 20
     cosmetic: habo_hat
@@ -56,7 +56,7 @@ items:
       material: hmccosmetics:marulk_hat
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: orth_coin
     cost: 20
     cosmetic: marulk_hat
@@ -85,7 +85,7 @@ items:
       material: hmccosmetics:prushka_hat
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: orth_coin
     cost: 20
     cosmetic: prushka_hat
@@ -106,7 +106,7 @@ items:
       material: hmccosmetics:nanachi_hat
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 2
     cosmetic: nanachi_hat
@@ -135,7 +135,7 @@ items:
       material: hmccosmetics:reg_helmet
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: orth_coin
     cost: 20
     cosmetic: reg_helmet
@@ -168,7 +168,7 @@ items:
       material: hmccosmetics:lyza_hat
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 2
     cosmetic: lyza_hat
@@ -199,7 +199,7 @@ items:
       material: hmccosmetics:ozen_hat
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 2
     cosmetic: ozen_hat
@@ -230,7 +230,7 @@ items:
       material: hmccosmetics:bondrewd_helmet
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 2
     cosmetic: bondrewd_helmet
@@ -251,7 +251,7 @@ items:
       material: hmccosmetics:faputa_hat
       lore:
         - "<red>Locked"
-    type: mia_cosmetic
+    type: cosmetic
     currency: mitty_token
     cost: 2
     cosmetic: faputa_hat
