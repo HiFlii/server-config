@@ -1,6 +1,0 @@
-set.item:
-  itemName: <#FFA812>Bell
-  type: PAPER
-  itemModel: mineinabyss:bell
-resourcepack:
-  model: mineinabyss:item/relics/whistle/bell

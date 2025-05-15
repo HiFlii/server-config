@@ -1,12 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mineinabyss:item/relics/whistle/black_whistle",
-		"particle": "mineinabyss:item/relics/whistle/black_whistle"
+		"0": "cosmetics:whistles/black_whistle",
+		"particle": "cosmetics:whistles/black_whistle"
 	},
 	"elements": [
 		{
-			"name": "whistle0",
 			"from": [6, 3, 3],
 			"to": [10, 5, 8],
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 3, 11]},
@@ -19,7 +18,6 @@
 			}
 		},
 		{
-			"name": "whistle1",
 			"from": [6, 1, 8],
 			"to": [10, 5, 12],
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 3, 11]},
@@ -33,7 +31,6 @@
 			}
 		},
 		{
-			"name": "whistle2",
 			"from": [5.5, 1.5, 8.5],
 			"to": [10.5, 4.5, 11.5],
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 3, 11]},
@@ -47,7 +44,6 @@
 			}
 		},
 		{
-			"name": "whistle3",
 			"from": [7, 2, 12],
 			"to": [9, 4, 14],
 			"rotation": {"angle": -45, "axis": "x", "origin": [8, 3, 11]},
@@ -64,7 +60,7 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [18, 10, 0],
-			"translation": [-11, -4.5, -18],
+			"translation": [-18, -15.75, -58],
 			"scale": [0.4, 0.3, 0.4]
 		},
 		"thirdperson_lefthand": {
@@ -99,12 +95,5 @@
 			"rotation": [-46, 0, 0],
 			"translation": [0, 3.5, -6.25]
 		}
-	},
-	"groups": [
-		{
-			"name": "model",
-			"origin": [8, 8, 8],
-			"children": [0, 1, 2, 3]
-		}
-	]
+	}
 }

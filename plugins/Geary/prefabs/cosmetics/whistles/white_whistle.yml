@@ -1,6 +1,0 @@
-set.item:
-  itemName: <#FFFFFF>White Whistle
-  type: PAPER
-  itemModel: mineinabyss:white_whistle
-resourcepack:
-  model: mineinabyss:item/relics/whistle/white_whistle
