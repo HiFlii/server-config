@@ -29,7 +29,7 @@ openinv_addon:
     org: Jikoo
     repo: OpenInv
     branch: master
-    subFolder: resource-pack
+    subFolder: resource-pack/openinv-legibility-pack
 custom_blocks:
   default: true
   required: true

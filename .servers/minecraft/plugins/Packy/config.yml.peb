@@ -11,9 +11,7 @@ prompt: ""
 force: false
 sendOnReload: true
 # What ObfuscationType to use, valid options are FULL, SIMPLE & NONE
-obfuscation:
-  type: NONE
-  cache: false
+obfuscation: NONE
 # This will use PackSquash to automatically squash all templates
 packSquash:
   enabled: false
